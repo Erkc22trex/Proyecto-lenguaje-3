@@ -10,6 +10,7 @@ npm i bootstrap@5.3.2
         <?php
         echo "Hola mundo";
         echo "Esta es una prueba para el proyecto de lenguaje 3";
+        echo "Prueba agregando colaboradores";
         ?>
     </body>
 </html>
