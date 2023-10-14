@@ -8,6 +8,8 @@ npm i bootstrap@5.3.2
     </head>
     <body>
         <?php
+        echo "Hola mundo";
+        echo "Esta es una prueba para el proyecto de lenguaje 3";
         ?>
     </body>
 </html>
